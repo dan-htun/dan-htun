@@ -1,0 +1,5 @@
+What is IAM in Azure?
+Identity and Access Management (IAM) in Azure is used to manage access to Azure resources. IAM consists of three components:
+	• Users: Users are the individual accounts that can be granted access to Azure resources.
+	• Groups: Groups are collections of users that can be given access to Azure resources.
+	• Roles: Roles are pre-defined sets of permissions that can be assigned to users or groups.
