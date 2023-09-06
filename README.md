@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thant Htun</h1>
-<h3 align="center">A passionate IT professional from the US</h3>
+<h3 align="center">An IT professional- Networking and Cybersecurity </h3>
 
 <h1><br/><a href="https://github.com/thant-htun">
 <h2>👨‍💻 .... Projects:</h2>
