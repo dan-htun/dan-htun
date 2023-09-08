@@ -5,36 +5,27 @@
 <h2>👨‍💻 .... Projects:</h2>
 
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/....)
-  - [JWipe (Disk Wiping Utility)](https://github.com/j....)
-  - [Active Directory Bulk User Creation](https://github.com/....)
-  - [FIM (File Integrity Monitor)](https://github.com/....)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/....)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/....)
-  - [Keylogger with Email Capability](https://github.com/...)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/....)
+- <b>Linux</b>
+  - [SSH to Linux](https://github.com/....)
+  - [Linux commands](https://github.com/j....)
+  - [Powershell SCP](https://github.com/....)
+  
+- <b>AD 
+  - [Users add)](https://github.com/....)
+  - [Group Policy](https://github.com/....)
+  - [Files and Permission](https://github.com/...)
+- <b>Wireshark</b>
+  - [Capturing Packets](https://github.com/....)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-<h2> 🤳 Connect with me:</h2>
-
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Ansible playbook
+- 🔭 I’m currently working on ... Wireshark
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
