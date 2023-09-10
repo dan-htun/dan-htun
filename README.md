@@ -8,7 +8,7 @@
 - <b>Linux</b>
   - [SSH to Linux](https://github.com/....)
   - [Linux commands](https://github.com/j....)
-  - [Powershell SCP](https://github.com/....)
+  - [PowerShell SCP](https://github.com/....)
   
 - <b>AD 
   - [Users add)](https://github.com/....)
