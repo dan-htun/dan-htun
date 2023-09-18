@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thant </h1>
 <h3 align="center">A passionate IT professional mainly Networking and a little bit of Cybersecurity </h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1><br/><a href="https://github.com/thant-htun">
 <h2>👨‍💻 Some projects I've been working on:</h2>
