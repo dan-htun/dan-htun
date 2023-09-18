@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Thant </h1>
-<h3 align="center">A passionate IT professional mainly Networking and a little bit of Cybersecurity </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thant-htun&label=Profile%20views&color=0e75b6&style=flat" alt="thant-htun" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<h1><br/><a href="https://github.com/thant-htun">
-<h3>👨‍💻 Projects I've been working on:</h3>
+<h1 align="center">Hi Everyone👋, I'm Thant </h1>
+<h3 align="center">A passionate IT professional mainly Networking and a little bit of Cybersecurity </h3>
 
+<h1><br/><a href="https://github.com/thant-htun">
+  
+<h3>👨‍💻 Projects I've been working on:</h3>
 
 - <b>Linux</b>
   - [SSH and SCP with PowerShell plus commonly used Linux commands](https://github.com/thant-htun/Linux)
@@ -21,19 +24,18 @@
 
 - [SSH and SCP using Linux](https://www.youtube.com/watch?v=Ft_jkJ9VjhI&t=13s)
 
-- 🔭 I’m currently working on ... Capturing packets and analyzing on Wireshark 
-- 🌱 I’m currently learning ...Ansible
-- 👯 I’m looking to making friends and learn from you!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about my hobbies and interests
-
--->
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thant-htun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thant-htun/" height="30" width="40" /></a>
-</p>
+ <a href="https://www.youtube.com/channel/UCgylnM-5YuliUs6nvLKv2gw/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="network fun" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thant-htun&show_icons=true&locale=en" alt="thant-htun" /></p>
+
+- 🔭 I’m currently working on ... Capturing packets and analyzing on Wireshark 
+- 👯 I’m looking to making friends and learn from you!
+- 💬 Ask me about my hobbies and interests 
+
