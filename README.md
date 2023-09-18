@@ -6,16 +6,15 @@
 
 
 - <b>Linux</b>
-  - [SSH to Linux](https://github.com/....)
-  - [Linux commands](https://github.com/j....)
-  - [PowerShell SCP](https://github.com/....)
-  
-- <b>AD 
-  - [Users add)](https://github.com/....)
+  - [SSH, SCP with PowerShell plus most used Linux commands](https://github.com/thant-htun/Linux)
+    
+- <b>Active Directory 
+  - [Setting up Active Directory Domain Services plus DNS and DHCP in Windows Server 2019 AND client joining the domain later](https://github.com/thant-htun/Active-Directory-Users-DHCP)
   - [Group Policy](https://github.com/....)
   - [Files and Permission](https://github.com/...)
 - <b>Wireshark</b>
-  - [Capturing Packets](https://github.com/....)
+  - [Quick setup for Wireshark Display Filters](https://github.com/....)
+  - [Capturing Packets with Wireshark](https://github.com/....)
 
 <h3>📺 My YouTube Videos</h3>
 
