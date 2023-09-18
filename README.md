@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1><br/><a href="https://github.com/thant-htun">
-<h2>👨‍💻 Some projects I've been working on:</h2>
+<h3>👨‍💻 Projects I've been working on:</h3>
 
 
 - <b>Linux</b>
