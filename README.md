@@ -6,7 +6,7 @@
 
 
 - <b>Linux</b>
-  - [SSH, SCP with PowerShell plus most used Linux commands](https://github.com/thant-htun/Linux)
+  - [SSH and SCP with PowerShell plus commonly used Linux commands](https://github.com/thant-htun/Linux)
     
 - <b>Active Directory 
   - [Setting up Active Directory Domain Services plus DNS and DHCP in Windows Server 2019 AND client joining the domain later](https://github.com/thant-htun/Active-Directory-Users-DHCP)
@@ -18,7 +18,7 @@
 
 <h3>📺 My YouTube Videos</h3>
 
-- [SSH and SCP using Linux] (https://www.youtube.com/watch?v=Ft_jkJ9VjhI&t=13s)
+- [SSH and SCP using Linux](https://www.youtube.com/watch?v=Ft_jkJ9VjhI&t=13s)
 
 Here are some ideas to get you started:
 
