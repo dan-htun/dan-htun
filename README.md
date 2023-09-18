@@ -21,8 +21,6 @@
 
 - [SSH and SCP using Linux](https://www.youtube.com/watch?v=Ft_jkJ9VjhI&t=13s)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Capturing packets and analyzing on Wireshark 
 - 🌱 I’m currently learning ...Ansible
 - 👯 I’m looking to making friends and learn from you!
