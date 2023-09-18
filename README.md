@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thant </h1>
-<h3 align="center">A passionate IT professional focused on Networking and Cybersecurity </h3>
+<h3 align="center">A passionate IT professional mainly Networking and a little bit of Cybersecurity </h3>
 
 <h1><br/><a href="https://github.com/thant-htun">
-<h2>👨‍💻 Below are some of the projects I have been working on:</h2>
+<h2>👨‍💻 Some projects I've been working on:</h2>
 
 
 - <b>Linux</b>
