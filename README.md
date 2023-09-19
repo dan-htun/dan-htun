@@ -5,18 +5,18 @@
 <h1 align="center">Hi Everyone👋, I'm Thant </h1>
 <h3 align="center">A passionate IT professional mainly Networking and a little bit of Cybersecurity </h3>
 
-<h1><br/><a href="https://github.com/thant-htun">
+
   
 <h3>👨‍💻 Projects I've been working on:</h3>
 
-- <b>Linux</b>
+- <b> Linux <b>
   - [SSH and SCP with PowerShell plus commonly used Linux commands](https://github.com/thant-htun/Linux)
     
-- <b>Active Directory 
+- Active Directory 
   - [Setting up Active Directory Domain Services plus DNS and DHCP in Windows Server 2019 AND client joining the domain later](https://github.com/thant-htun/Active-Directory-Users-DHCP)
   - [Group Policy](https://github.com/....)
   - [Files and Permission](https://github.com/...)
-- <b>Wireshark</b>
+- Wireshark
   - [Quick setup for Wireshark Display Filters](https://github.com/....)
   - [Capturing Packets with Wireshark](https://github.com/....)
 
