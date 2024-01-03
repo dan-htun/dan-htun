@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1 align="center">Hi Everyone👋, I'm Thant </h1>
-<h3 align="center">A passionate IT professional mainly Networking and a little bit of Cybersecurity </h3>
+<h3 align="center">A passionate IT professional in NY.
 
 
   
