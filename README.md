@@ -13,13 +13,13 @@
   - [SSH and SCP with PowerShell plus commonly used Linux commands](https://github.com/thant-htun/Linux)
     
 - Routing and Switching
-  - [Switch's security] (https://github.com/thant-htun/Initial-Configuration-of-a-Cisco-Switch-and-Port-Security-Features)
-  - [Configuring DHCP and DNS in router] (https://github.com/thant-htun/Configure-A-Router-for-DHCP-and-DNS-in-Cisco-IOS)
+  - [Switch's security](https://github.com/thant-htun/Initial-Configuration-of-a-Cisco-Switch-and-Port-Security-Features)
+  - [Configuring DHCP and DNS on a router](https://github.com/thant-htun/Configure-A-Router-for-DHCP-and-DNS-in-Cisco-IOS)
     
 - Active Directory 
   - [Setting up Active Directory Domain Services plus DNS and DHCP in Windows Server 2019 AND client joining the domain later](https://github.com/thant-htun/Active-Directory-Users-DHCP)
-  - [Group Policy](https://github.com/....)
-  - [Files and Permission](https://github.com/...)
+  - [Group Policy -in progress](https://github.com/....)
+  - [Files and Permission- in progress](https://github.com/...)
 - Wireshark
   - [Quick setup for Wireshark Display Filters](https://github.com/....)
   - [Capturing Packets with Wireshark](https://github.com/....)
