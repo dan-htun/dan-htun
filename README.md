@@ -7,7 +7,7 @@
 
 
   
-<h3>👨‍💻 Projects I've been working on:</h3>
+<h3>👨‍💻 Fun Projects I've done to learn the basics on:</h3>
 
 - <b> Linux <b>
   - [SSH and SCP with PowerShell plus commonly used Linux commands](https://github.com/thant-htun/Linux)
@@ -20,10 +20,14 @@
   - [Setting up Active Directory Domain Services plus DNS and DHCP in Windows Server 2019 AND client joining the domain later](https://github.com/thant-htun/Active-Directory-Users-DHCP)
   - [Group Policy -in progress](https://github.com/....)
   - [Files and Permission- in progress](https://github.com/...)
+
+
+<h3>👨‍💻 Projects in progress:</h3>
+
 - Wireshark
   - [Quick setup for Wireshark Display Filters](https://github.com/....)
   - [Capturing Packets with Wireshark](https://github.com/....)
-
+    
 <h3>📺 My YouTube Videos</h3>
 
 - [SSH and SCP using Linux](https://www.youtube.com/watch?v=Ft_jkJ9VjhI&t=13s)
