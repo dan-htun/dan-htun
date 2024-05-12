@@ -18,8 +18,8 @@
     
 - Active Directory 
   - [Setting up Active Directory Domain Services plus DNS and DHCP in Windows Server 2019 AND client joining the domain later](https://github.com/thant-htun/Active-Directory-Users-DHCP)
-  - [Group Policy -in progress](https://github.com/....)
-  - [Files and Permission- in progress](https://github.com/...)
+  - [Group Policy (in progress)](https://github.com/....)
+  - [Files and Permission (in progress)](https://github.com/...)
 
 
 <h3>👨‍💻 Projects in progress:</h3>
