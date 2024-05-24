@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1 align="center">Hi Everyone👋, I'm Thant </h1>
-<h3 align="center"> IT professional strong interest in network engineering and security.
+<h3 align="center"> IT professional with a strong interest in network engineering and security.
 
 
   
