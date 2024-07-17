@@ -11,13 +11,13 @@
 - <b>Active Directory<b> 
   - [Set up a domain controller in Windows Server for DNS and DHCP server-client relations](https://github.com/thant-htun/Active-Directory-Users-DHCP)
 
--<b>Linux<b>
+- <b>Linux<b>
   - [Set up SSH to a Linux VM and transfer files and folders securely via SCP using PowerShell](https://github.com/thant-htun/Linux)
 
+- <b>Azure<b>
 
 <h3>👨‍💻 Learning in progress:</h3>
 
-- <b>Azure<b>
   - [Load Balance Virtual Machines in Azure](https://github.com/....)
   - [Fortinet](https://github.com/....)
     
