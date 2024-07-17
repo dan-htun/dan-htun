@@ -2,11 +2,8 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1 align="center">Hi Everyone👋, I'm Dan </h1>
-<h3 align="center"> Check out projects and labs that I've done related to networking and security.
+<h3 align="left"> Check out projects and labs that I've done related to networking and security. </h3>
 
-
-
-  
 - Linux
   - [SSH and SCP with PowerShell plus commonly used Linux commands](https://github.com/thant-htun/Linux)
     
