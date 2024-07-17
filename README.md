@@ -1,9 +1,9 @@
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thant-htun&label=Profile%20views&color=0e75b6&style=flat" alt="thant-htun" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1 align="center">Hi Everyone👋, I'm Dan </h1>
-<h3 align="center"> 👨‍💻 Check out some of my projects and labs that I have worked related to networking and security.
+<h3 align="center"> Check out some of my projects and labs that I have worked related to networking and security.
+
 
 
   
