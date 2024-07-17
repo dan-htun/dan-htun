@@ -7,7 +7,7 @@
 
 
   
-- <b> Linux <b>
+<h3 align="left">Linux</h3>
   - [SSH and SCP with PowerShell plus commonly used Linux commands](https://github.com/thant-htun/Linux)
     
 - Routing and Switching
