@@ -2,30 +2,29 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1 align="center">Hi Everyone👋, I'm Dan </h1>
-<h3 align="left"> Check out projects and labs that I've done related to networking and security. </h3>
-
-- Linux
-  - [SSH and SCP with PowerShell plus commonly used Linux commands](https://github.com/thant-htun/Linux)
+<h3 align="left"> Welcome to my GitHub profile! Explore my projects and discover the new skills I'm currently mastering... </h3>
+   
+- <b>Routing and Switching<b>
+  - [Switch configurations and port security features](https://github.com/thant-htun/Initial-Configuration-of-a-Cisco-Switch-and-Port-Security-Features)
+  - [Configuring a Cisco router for default gateway, DNS, DHCP server and clients](https://github.com/thant-htun/Configure-A-Router-for-DHCP-and-DNS-in-Cisco-IOS)
     
-- Routing and Switching
-  - [Switch's security](https://github.com/thant-htun/Initial-Configuration-of-a-Cisco-Switch-and-Port-Security-Features)
-  - [Configuring DHCP and DNS on a router](https://github.com/thant-htun/Configure-A-Router-for-DHCP-and-DNS-in-Cisco-IOS)
-    
-- Active Directory 
-  - [Setting up Active Directory Domain Services plus DNS and DHCP in Windows Server 2019 AND client joining the domain later](https://github.com/thant-htun/Active-Directory-Users-DHCP)
-  - [Group Policy (in progress)](https://github.com/....)
-  - [Files and Permission (in progress)](https://github.com/...)
+- <b>Active Directory<b> 
+  - [Set up a domain controller in Windows Server for DNS and DHCP server-client relations](https://github.com/thant-htun/Active-Directory-Users-DHCP)
+
+-<b>Linux<b>
+  - [Set up SSH to a Linux VM and transfer files and folders securely via SCP using PowerShell](https://github.com/thant-htun/Linux)
 
 
-<h3>👨‍💻 Projects in progress:</h3>
+<h3>👨‍💻 Learning in progress:</h3>
 
-- Azure
+- <b>Azure<b>
   - [Load Balance Virtual Machines in Azure](https://github.com/....)
   - [Fortinet](https://github.com/....)
     
 <h3>📺 My YouTube Videos</h3>
 
-- [SSH and SCP using Linux](https://www.youtube.com/watch?v=Ft_jkJ9VjhI&t=13s)
+- [Linux](https://www.youtube.com/watch?v=Ft_jkJ9VjhI&t=13s)
+- [Networking](https://www.youtube.com/watch?v=sz0v9qVUc4s)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
