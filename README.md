@@ -18,7 +18,7 @@
   - [implementing an Azure load balancer to distribute incoming traffic across backend virtual machines] 
 
 
-<h3>👨‍💻 Learning in progress:</h3>
+<h3>👨‍💻 Learning currently:</h3>
 
   - [Load Balance Virtual Machines in Azure](https://github.com/....)
   - [Fortinet](https://github.com/....)
