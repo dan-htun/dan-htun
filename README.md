@@ -15,6 +15,8 @@
   - [Set up SSH to a Linux VM and transfer files and folders securely via SCP using PowerShell](https://github.com/thant-htun/Linux)
 
 - <b>Azure<b>
+  - [implementing an Azure load balancer to distribute incoming traffic across backend virtual machines] 
+
 
 <h3>👨‍💻 Learning in progress:</h3>
 
