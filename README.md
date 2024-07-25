@@ -6,7 +6,7 @@
    
 - <b>Routing and Switching<b>
   - [Switch configurations and port security features](https://github.com/thant-htun/Initial-Configuration-of-a-Cisco-Switch-and-Port-Security-Features)
-  - [Configuring a Cisco router for default gateway, DNS, DHCP server and clients](https://github.com/thant-htun/Configure-A-Router-for-DHCP-and-DNS-in-Cisco-IOS)
+  - [Configuring a Cisco router for default gateway, DNS and DHCP server](https://github.com/thant-htun/Configure-A-Router-for-DHCP-and-DNS-in-Cisco-IOS)
     
 - <b>Azure<b>
   - [Azure public load balancer to distribute incoming traffic across backend virtual machines](https://github.com/dan-htun/Azure-Load-Balancer)
