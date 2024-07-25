@@ -8,23 +8,23 @@
   - [Switch configurations and port security features](https://github.com/thant-htun/Initial-Configuration-of-a-Cisco-Switch-and-Port-Security-Features)
   - [Configuring a Cisco router for default gateway, DNS, DHCP server and clients](https://github.com/thant-htun/Configure-A-Router-for-DHCP-and-DNS-in-Cisco-IOS)
     
-- <b>Active Directory<b> 
-  - [Set up a domain controller in Windows Server for DNS and DHCP server-client relations](https://github.com/thant-htun/Active-Directory-Users-DHCP)
-
 - <b>Linux<b>
   - [Set up SSH to a Linux VM and transfer files and folders securely via SCP using PowerShell](https://github.com/thant-htun/Linux)
 
 - <b>Azure<b>
-  - [implementing an Azure load balancer to distribute incoming traffic across backend virtual machines] 
+  - [Azure public load balancer to distribute incoming traffic across backend virtual machines](https://github.com/dan-htun/Azure-Load-Balancer)
 
+- <b>Active Directory<b> 
+  - [Set up a domain controller in Windows Server for DNS and DHCP server-client relations](https://github.com/thant-htun/Active-Directory-Users-DHCP)
 
 <h3>👨‍💻 Learning currently:</h3>
 
-  - [Load Balance Virtual Machines in Azure](https://github.com/....)
-  - [Fortinet](https://github.com/....)
+  - [Azure Virtual Networks](https://github.com/....)
+  - [Fortinet firewall](https://github.com/....)
     
 <h3>📺 My YouTube Videos</h3>
 
+- [Cloud](https://www.youtube.com/watch?v=N-QBBm2R1zg)
 - [Linux](https://www.youtube.com/watch?v=Ft_jkJ9VjhI&t=13s)
 - [Networking](https://www.youtube.com/watch?v=sz0v9qVUc4s)
 
@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan-htun&show_icons=true&locale=en" alt="dan-htun" /></p>
 
-- 🔭 I’m currently working on ... Capturing packets and analyzing on Wireshark 
+- 🔭 I’m currently working on ... Proxmox Virtual Environment (setting up VMs and doing PNET labs for networking) 
 - 👯 I’m looking to making friends and learn from you!
 - 💬 Ask me about my hobbies and interests 
 
