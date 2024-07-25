@@ -8,18 +8,18 @@
   - [Switch configurations and port security features](https://github.com/thant-htun/Initial-Configuration-of-a-Cisco-Switch-and-Port-Security-Features)
   - [Configuring a Cisco router for default gateway, DNS, DHCP server and clients](https://github.com/thant-htun/Configure-A-Router-for-DHCP-and-DNS-in-Cisco-IOS)
     
-- <b>Linux<b>
-  - [Set up SSH to a Linux VM and transfer files and folders securely via SCP using PowerShell](https://github.com/thant-htun/Linux)
-
 - <b>Azure<b>
   - [Azure public load balancer to distribute incoming traffic across backend virtual machines](https://github.com/dan-htun/Azure-Load-Balancer)
+
+- <b>Linux<b>
+  - [Set up SSH to a Linux VM and transfer files and folders securely via SCP using PowerShell](https://github.com/thant-htun/Linux)
 
 - <b>Active Directory<b> 
   - [Set up a domain controller in Windows Server for DNS and DHCP server-client relations](https://github.com/thant-htun/Active-Directory-Users-DHCP)
 
 <h3>👨‍💻 Learning currently:</h3>
 
-  - [Azure Virtual Networks](https://github.com/....)
+  - [Azure Virtual Network](https://github.com/....)
   - [Fortinet firewall](https://github.com/....)
     
 <h3>📺 My YouTube Videos</h3>
