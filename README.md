@@ -20,7 +20,7 @@
 <h3>👨‍💻 Learning currently:</h3>
 
   - [Azure Virtual Network](https://github.com/....)
-  - [Fortinet firewall](https://github.com/....)
+  - [Fortinet Firewall](https://github.com/dan-htun/Fortigate-Basic-Setup)
     
 <h3>📺 My YouTube Videos</h3>
 
