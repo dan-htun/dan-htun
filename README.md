@@ -10,6 +10,7 @@
     
 - <b>Azure<b>
   - [Azure public load balancer to distribute incoming traffic across backend virtual machines](https://github.com/dan-htun/Azure-Load-Balancer)
+  - [Azure Firewall]
 
 - <b>Linux<b>
   - [Set up SSH to a Linux VM and transfer files and folders securely via SCP using PowerShell](https://github.com/thant-htun/Linux)
@@ -19,7 +20,7 @@
 
 <h3>👨‍💻 Learning currently:</h3>
 
-  - [Azure Virtual Network](https://github.com/....)
+  - [CCNP ENCOR](https://github.com/....)
   - [Fortinet Firewall](https://github.com/dan-htun/Fortigate-Basic-Setup)
     
 <h3>📺 My YouTube Videos</h3>
